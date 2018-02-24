@@ -1,0 +1,24 @@
+{
+  "name": "Constructor-Hangman",
+  "version": "1.0.0",
+  "description": "Creating a Hangman Game using Node.js and constructor functions.",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atilla20/Constructor-Hangman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atilla20/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/Atilla20/Constructor-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "prompt": "^1.0.0"
+  }
+}
